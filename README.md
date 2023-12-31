@@ -23,29 +23,21 @@ please use markers to denote when certain sections of the game start and end. th
 each ltm folder contains an `info.md` file, which is used to give detail about each section of the tas, and uses this format:
 
 ```
----
-
 ## marker_name
 
 **route:** (describe the route)
 
 **author(s):** (list of people who worked on the section)
-
----
 ```
 
 the lua folder also contains an `info.md` file, which describes each script and follows this format:
 
 ```
----
-
 ## script_name
 
 **function:** (what the script does)
 
 **author(s):** (list of people who worked on the script)
-
----
 ```
 
 ---
